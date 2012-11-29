@@ -6,12 +6,13 @@ Simulator for Wireless Sensor Network
 What is Castalia
 
 Castalia is a simulator for Wireless Sensor Networks (WSN), Body Area Networks (BAN) and generally networks of low-power embedded devices. It is based on the OMNeT++ platform and can be used by researchers and developers who want to test their distributed algorithms and/or protocols in realistic wireless channel and radio models, with a realistic node behaviour especially relating to access of the radio. Castalia can also be used to evaluate different platform characteristics for specific applications, since it is highly parametric, and can simulate a wide range of platforms. The main features of Castalia are:
-Advanced channel model based on empirically measured data
-Model defines a map of path loss, not simply connections between nodes
-Complex model for temporal variation of path loss
-Fully supports mobility of the nodes
-Interference is handled as received signal strength, not as separate feature
-Advanced radio model based on real radios for low-power communication
+
+  - Advanced channel model based on empirically measured data
+        - Model defines a map of path loss, not simply connections between nodes
+        - Complex model for temporal variation of path loss
+        - Fully supports mobility of the nodes
+        - Interference is handled as received signal strength, not as separate feature
+  - Advanced radio model based on real radios for low-power communication
 Probability of reception based on SINR, packet size, modulation type. PSK FSK supported, custom modulation allowed by defining SNR-BER curve
 Multiple TX power levels with individual node variations allowed
 States with different power consumption and delays switching between them
