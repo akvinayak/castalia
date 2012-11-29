@@ -9,9 +9,13 @@ Castalia is a simulator for Wireless Sensor Networks (WSN), Body Area Networks (
 
   - Advanced channel model based on empirically measured data
         - Model defines a map of path loss, not simply connections between nodes
+        - 
         - Complex model for temporal variation of path loss
+        - 
         - Fully supports mobility of the nodes
+        - 
         - Interference is handled as received signal strength, not as separate feature
+        - 
   - Advanced radio model based on real radios for low-power communication
 Probability of reception based on SINR, packet size, modulation type. PSK FSK supported, custom modulation allowed by defining SNR-BER curve
 Multiple TX power levels with individual node variations allowed
