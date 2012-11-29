@@ -10,19 +10,19 @@ Castalia is a simulator for Wireless Sensor Networks (WSN), Body Area Networks (
   - Advanced channel model based on empirically measured data
       - Model defines a map of path loss, not simply connections between nodes
       - Complex model for temporal variation of path loss
-        - Fully supports mobility of the nodes
-        - Interference is handled as received signal strength, not as separate feature
+      - Fully supports mobility of the nodes
+      - Interference is handled as received signal strength, not as separate feature
   - Advanced radio model based on real radios for low-power communication
-Probability of reception based on SINR, packet size, modulation type. PSK FSK supported, custom modulation allowed by defining SNR-BER curve
-Multiple TX power levels with individual node variations allowed
-States with different power consumption and delays switching between them
-Flexible carrier sensing (polling-based and interrupt-based)
-Extended sensing modelling provisions
-Highly flexible physical process model
-Sensing device noise, bias, and power consumption
-Node clock drift, CPU power consumption.
-MAC and routing protocols available
-Designed for adaptation and expansion.
+      - Probability of reception based on SINR, packet size, modulation type. PSK FSK supported, custom modulation allowed by defining SNR-BER curve
+      - Multiple TX power levels with individual node variations allowed
+      - States with different power consumption and delays switching between them
+      - Flexible carrier sensing (polling-based and interrupt-based)
+  - Extended sensing modelling provisions
+      - Highly flexible physical process model
+      - Sensing device noise, bias, and power consumption
+  - Node clock drift, CPU power consumption.
+  - MAC and routing protocols available
+  - Designed for adaptation and expansion.
 Concerning the last bullet, Castalia was designed right from the beginning so that the users can easily implement/import their algorithms and protocols into Castalia while making use of the features the simulator is providing. Proper modularization and a configurable, automated build procedure help towards this end. The modularity, reliability, and speed of Castalia is partly enabled by OMNeT++, an excellent framework to build event-driven simulators [OMNeT++ link].
 
 
