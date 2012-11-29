@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/Castalia/!svn/ver/203/trunk/Castalia/src/node/mobilityManager/noMobilityManager
+END
+NoMobilityManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Castalia/!svn/ver/203/trunk/Castalia/src/node/mobilityManager/noMobilityManager/NoMobilityManager.cc
+END
+NoMobilityManager.ned
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Castalia/!svn/ver/203/trunk/Castalia/src/node/mobilityManager/noMobilityManager/NoMobilityManager.ned
+END
+NoMobilityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Castalia/!svn/ver/203/trunk/Castalia/src/node/mobilityManager/noMobilityManager/NoMobilityManager.h
+END

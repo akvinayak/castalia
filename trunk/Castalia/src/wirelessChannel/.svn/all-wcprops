@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/Castalia/!svn/ver/284/trunk/Castalia/src/wirelessChannel
+END
+WirelessChannelTemporal.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Castalia/!svn/ver/203/trunk/Castalia/src/wirelessChannel/WirelessChannelTemporal.h
+END
+WirelessChannelMessages.msg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Castalia/!svn/ver/203/trunk/Castalia/src/wirelessChannel/WirelessChannelMessages.msg
+END
+WirelessChannel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Castalia/!svn/ver/284/trunk/Castalia/src/wirelessChannel/WirelessChannel.cc
+END
+WirelessChannel.ned
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Castalia/!svn/ver/203/trunk/Castalia/src/wirelessChannel/WirelessChannel.ned
+END
+WirelessChannel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Castalia/!svn/ver/203/trunk/Castalia/src/wirelessChannel/WirelessChannel.h
+END
+WirelessChannelTemporal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Castalia/!svn/ver/203/trunk/Castalia/src/wirelessChannel/WirelessChannelTemporal.cc
+END
