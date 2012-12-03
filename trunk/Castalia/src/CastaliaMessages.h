@@ -7,7 +7,7 @@
  *                                                                          *
  *      NICTA, Locked Bag 9013, Alexandria, NSW 1435, Australia             *
  *      Attention:  License Inquiry.                                        *
- *                                                                          *  
+ *      add some comments lol                                                                    *  
  ****************************************************************************/
 
 #ifndef CASTALIA_MESSAGES
