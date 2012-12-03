@@ -28,9 +28,10 @@ Concerning the last bullet, Castalia was designed right from the beginning so th
 
 
 What Castalia is not:
-<hr>
+========
 
 Castalia is not sensor platform-specific. Castalia is meant to provide a generic reliable and realistic framework for the first order validation of an algorithm before moving to implementation on a specific sensor platform. Castalia is not useful if one would like to test code compiled for a specific sensor node platform. For such usage there are other simulators/emulators available (e.g., Avrora).
 
 FAQ:
+========
 http://castalia.npc.nicta.com.au/naq.php
