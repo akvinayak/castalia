@@ -34,6 +34,7 @@ Castalia is not sensor platform-specific. Castalia is meant to provide a generic
 
 Go to the Castalia Forum
 ========
+https://groups.google.com/forum/?fromgroups#!forum/castalia-simulator
 
 FAQ:
 ========
