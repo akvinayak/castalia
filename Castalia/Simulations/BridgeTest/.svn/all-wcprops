@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/BridgeTest
+END
+omnetpp.ini
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/BridgeTest/omnetpp.ini
+END
+bridgeTestRun
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/BridgeTest/bridgeTestRun
+END
+MAC_Tunable.ini
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/BridgeTest/MAC_Tunable.ini
+END
+node_locations.ini
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/BridgeTest/node_locations.ini
+END

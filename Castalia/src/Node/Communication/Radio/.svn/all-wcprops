@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Radio
+END
+RadioModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Radio/RadioModule.cc
+END
+RadioControlMessage.msg
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Radio/RadioControlMessage.msg
+END
+RadioModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Radio/RadioModule.ned
+END
+RadioModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Radio/RadioModule.h
+END

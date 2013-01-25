@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation
+END
+valuePropagation_ApplicationModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_ApplicationModule.h
+END
+valuePropagation_DataPacket.msg
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_DataPacket.msg
+END
+valuePropagation_tunableMacControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_tunableMacControlImpl.cc.inc
+END
+valuePropagation_ApplicationModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_ApplicationModule.cc
+END
+valuePropagation_radioControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_radioControlImpl.cc.inc
+END
+valuePropagation_ApplicationModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valuePropagation/valuePropagation_ApplicationModule.ned
+END

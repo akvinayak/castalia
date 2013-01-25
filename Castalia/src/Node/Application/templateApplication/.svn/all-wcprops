@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication
+END
+template_DataPacket.msg
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_DataPacket.msg
+END
+template_tunableMacControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_tunableMacControlImpl.cc.inc
+END
+create_new_application.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/create_new_application.sh
+END
+template_ApplicationModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_ApplicationModule.cc
+END
+template_radioControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_radioControlImpl.cc.inc
+END
+template_ApplicationModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_ApplicationModule.ned
+END
+template_ApplicationModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/templateApplication/template_ApplicationModule.h
+END

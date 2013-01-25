@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/No_Interference
+END
+WChannel_noInterference_yesSigma_noAllBidirectional.ini
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/No_Interference/WChannel_noInterference_yesSigma_noAllBidirectional.ini
+END
+WChannel_noInterference_yesSigma_yesAllBidirectional.ini
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/No_Interference/WChannel_noInterference_yesSigma_yesAllBidirectional.ini
+END
+WChannel_Ideal.ini
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/No_Interference/WChannel_Ideal.ini
+END

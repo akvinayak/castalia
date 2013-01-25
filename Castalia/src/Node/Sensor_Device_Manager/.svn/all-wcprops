@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Sensor_Device_Manager
+END
+SensorDevMgr_GenericMessage.msg
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Sensor_Device_Manager/SensorDevMgr_GenericMessage.msg
+END
+SensorDevMgrModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Sensor_Device_Manager/SensorDevMgrModule.cc
+END
+SensorDevMgrModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Sensor_Device_Manager/SensorDevMgrModule.ned
+END
+SensorDevMgrModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Sensor_Device_Manager/SensorDevMgrModule.h
+END

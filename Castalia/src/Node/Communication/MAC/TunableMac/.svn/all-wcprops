@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TunableMac
+END
+TunableMacModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TunableMac/TunableMacModule.cc
+END
+TunableMacModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TunableMac/TunableMacModule.ned
+END
+TunableMacModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TunableMac/TunableMacModule.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Mobility_Module
+END
+MobilityModule_Message.msg
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Mobility_Module/MobilityModule_Message.msg
+END
+VirtualMobilityModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Mobility_Module/VirtualMobilityModule.cc
+END
+VirtualMobilityModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Mobility_Module/VirtualMobilityModule.ned
+END
+VirtualMobilityModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Mobility_Module/VirtualMobilityModule.h
+END

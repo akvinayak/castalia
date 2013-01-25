@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Network
+END
+NetworkGenericModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Network/NetworkGenericModule.ned
+END
+NetworkControlMessage.msg
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Network/NetworkControlMessage.msg
+END
+NetworkGenericFrame.msg
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/Network/NetworkGenericFrame.msg
+END

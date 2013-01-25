@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files
+END
+nodeSensorDevMgr_Temperature.ini
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/nodeSensorDevMgr_Temperature.ini
+END
+omnet_cmdenv_reporting.ini
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/omnet_cmdenv_reporting.ini
+END
+Routing_bypass.ini
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/Routing_bypass.ini
+END
+BackwardCompatibility.ini
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/BackwardCompatibility.ini
+END
+MAC_just_carrierSense.ini
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/MAC_just_carrierSense.ini
+END
+MAC_Tunable.ini
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/MAC_Tunable.ini
+END
+nodeSensorDevMgr_Accelerometer.ini
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/nodeSensorDevMgr_Accelerometer.ini
+END
+physicalProcess_0_node0_asssignedValue40.ini
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/physicalProcess_0_node0_asssignedValue40.ini
+END
+Routing_simpleTree.ini
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/Routing_simpleTree.ini
+END
+Routing_multipathRings.ini
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/Routing_multipathRings.ini
+END
+MAC_Bypass.ini
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/MAC_Bypass.ini
+END
+resourceMgr_2AAbatteries.ini
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/resourceMgr_2AAbatteries.ini
+END
+T_MAC.ini
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/T_MAC.ini
+END
+physicalProcess_0_node6_asssignedValue40.ini
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/physicalProcess_0_node6_asssignedValue40.ini
+END
+general_and_RNGs.ini
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/general_and_RNGs.ini
+END
+physicalProcess_0_one_source_at_2_38.ini
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/physicalProcess_0_one_source_at_2_38.ini
+END
+extractOmnetppINI
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/extractOmnetppINI
+END

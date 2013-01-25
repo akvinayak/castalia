@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TMac
+END
+TMacModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TMac/TMacModule.ned
+END
+TMacModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TMac/TMacModule.h
+END
+TMacModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/TMac/TMacModule.cc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity
+END
+omnetpp.ini
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/omnetpp.ini
+END
+runMultiValProp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/runMultiValProp
+END
+WChannel_Realistic(Hardcoded_ConnMap).ini
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/WChannel_Realistic(Hardcoded_ConnMap).ini
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/README.txt
+END
+node_locations.ini
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/node_locations.ini
+END
+produce_statistics_hardcoded.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/valuePropagation/multipleRunsExample/hardcodedConnectivity/produce_statistics_hardcoded.php
+END

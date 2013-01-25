@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/Additive_Interference_Model
+END
+WChannel_yesInterference_noSigma_yesAllBidirectional.ini
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/Additive_Interference_Model/WChannel_yesInterference_noSigma_yesAllBidirectional.ini
+END
+WChannel_yesInterference_yesSigma_yesAllBidirectional.ini
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/Additive_Interference_Model/WChannel_yesInterference_yesSigma_yesAllBidirectional.ini
+END
+WChannel_Realistic.ini
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/Simulations/Parameter_Include_Files/WChannel/Additive_Interference_Model/WChannel_Realistic.ini
+END

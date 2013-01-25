@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application
+END
+App_GenericDataPacket.msg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/App_GenericDataPacket.msg
+END
+App_ControlMessage.msg
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/App_ControlMessage.msg
+END
+ApplicationGenericModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/ApplicationGenericModule.ned
+END

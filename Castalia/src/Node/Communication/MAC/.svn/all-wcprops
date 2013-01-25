@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC
+END
+MacGenericModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/MacGenericModule.ned
+END
+MacControlMessage.msg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/MacControlMessage.msg
+END
+MacGenericFrame.msg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Communication/MAC/MacGenericFrame.msg
+END

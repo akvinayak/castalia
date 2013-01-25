@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest
+END
+BridgeTest_DataPacket.msg
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_DataPacket.msg
+END
+BridgeTest_tunableMacControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_tunableMacControlImpl.cc.inc
+END
+BridgeTest_ApplicationModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_ApplicationModule.cc
+END
+BridgeTest_radioControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_radioControlImpl.cc.inc
+END
+BridgeTest_ApplicationModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_ApplicationModule.ned
+END
+BridgeTest_ApplicationModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/BridgeTest/BridgeTest_ApplicationModule.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting
+END
+valueReporting_tunableMacControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_tunableMacControlImpl.cc.inc
+END
+valueReporting_ApplicationModule.cc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_ApplicationModule.cc
+END
+valueReporting_radioControlImpl.cc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_radioControlImpl.cc.inc
+END
+valueReporting_ApplicationModule.ned
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_ApplicationModule.ned
+END
+valueReporting_ApplicationModule.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_ApplicationModule.h
+END
+valueReporting_DataPacket.msg
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Application/valueReporting/valueReporting_DataPacket.msg
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Resource_Manager
+END
+ResourceGenericManager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Resource_Manager/ResourceGenericManager.cc
+END
+ResourceGenericManager.ned
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Resource_Manager/ResourceGenericManager.ned
+END
+ResourceGenericManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Resource_Manager/ResourceGenericManager.h
+END
+ResourceGenericManager_Message.msg
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/Castalia/!svn/ver/41/tags/Release2.0/Castalia/src/Node/Resource_Manager/ResourceGenericManager_Message.msg
+END
