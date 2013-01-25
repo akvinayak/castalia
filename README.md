@@ -1,4 +1,6 @@
-castalia
+Castalia
+
+http://castalia.npc.nicta.com.au/
 ========
 
 Simulator for Wireless Sensor Network
