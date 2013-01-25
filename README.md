@@ -4,7 +4,6 @@ castalia
 Simulator for Wireless Sensor Network
 
 What is Castalia
-<<<<<<< HEAD
 
 Castalia is a simulator for Wireless Sensor Networks (WSN), Body Area Networks (BAN) and generally networks of low-power embedded devices. It is based on the OMNeT++ platform and can be used by researchers and developers who want to test their distributed algorithms and/or protocols in realistic wireless channel and radio models, with a realistic node behaviour especially relating to access of the radio. Castalia can also be used to evaluate different platform characteristics for specific applications, since it is highly parametric, and can simulate a wide range of platforms. The main features of Castalia are:
 
@@ -55,7 +54,6 @@ Concerning the last bullet, Castalia was designed right from the beginning so th
 
 
 What Castalia is not:
-<<<<<<< HEAD
 
 Castalia is not sensor platform-specific. Castalia is meant to provide a generic reliable and realistic framework for the first order validation of an algorithm before moving to implementation on a specific sensor platform. Castalia is not useful if one would like to test code compiled for a specific sensor node platform. For such usage there are other simulators/emulators available (e.g., Avrora).
 =======
@@ -70,4 +68,4 @@ https://groups.google.com/forum/?fromgroups#!forum/castalia-simulator
 FAQ:
 ========
 http://castalia.npc.nicta.com.au/naq.php
->>>>>>> 721b575499a0b010494b77f1370bbdfd9275c3ac
+
